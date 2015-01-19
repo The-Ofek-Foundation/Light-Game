@@ -1,0 +1,6 @@
+Mercury-Vapor Lamp:
+
+Light Referred as: 	  Mercury Vapor Lamp Light
+Visible Light Efficiency: ~96.2%
+Date Created/Invented:    ~1901
+Lifespan:		  ~1000 days

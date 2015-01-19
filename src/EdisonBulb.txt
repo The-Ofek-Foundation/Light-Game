@@ -1,0 +1,6 @@
+Edison Lightbulb:
+
+Light Referred as:        Incandescent Light Bulb
+Visible Light Efficiency: ~20%
+Date Created/Invented:    ~1880
+Lifespan:                 ~50 days

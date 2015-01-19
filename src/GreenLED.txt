@@ -1,0 +1,6 @@
+(Green) Light Emitting Diode:
+
+Light Referred as:        LED Light
+Visible Light Efficiency: ~99.4%
+Date Created/Invented:    ~1968
+Lifespan:                 ~3,000 days

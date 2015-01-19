@@ -1,0 +1,6 @@
+(Blue) Light Emitting Diode:
+
+Light Referred as:        LED Light
+Visible Light Efficiency: ~96.2%
+Date Created/Invented:    ~1995
+Lifespan:                 ~3,000 days

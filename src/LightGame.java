@@ -1,4 +1,4 @@
-o/*	Ofek Gila
+/*	Ofek Gila
 	April 22nd, 2014
 	LightGame.java
 	This program helps the user understand how light works in a fun way
